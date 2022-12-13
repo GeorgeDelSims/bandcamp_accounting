@@ -2,3 +2,4 @@ data
 .env
 notebooks
 *.ipynb
+.DS_store
